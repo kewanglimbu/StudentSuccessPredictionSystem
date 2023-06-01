@@ -1,17 +1,17 @@
 # StudentSuccessPrediction
-
-# Welocome page
+# Screenshots
+## Welocome page
 ![Welcome homescreen](/Screenshots/welocme.png) 
 
-# Admin 
+## Admin 
 ![Admin Page](/Screenshots/adminPage.png) 
 
-# Roles
+## Roles
 ![Roles Page](/Screenshots/Roles.png) 
 
-# Subjects 
+## Subjects 
 ![Subject Page](/Screenshots/Subjects.png) 
 
-# Prediction Page
+## Prediction Page
 ![Subject Page](/Screenshots/Prediction.png) 
 
