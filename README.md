@@ -1,4 +1,4 @@
 # StudentSuccessPrediction
 
 #Welocome page
-![Welcome homescreen](/Screenshots/welocme.PNG) 
+![Welcome homescreen](/Screenshots/welocme.png) 
